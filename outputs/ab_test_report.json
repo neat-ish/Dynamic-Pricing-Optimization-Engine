@@ -1,0 +1,21 @@
+{
+  "test_date": "2026-03-05",
+  "sample_size": {
+    "control": 29367,
+    "treatment": 29369
+  },
+  "results": {
+    "relative_lift_%": 6.005107871444975,
+    "ci_95%": [
+      1.8728349346780573,
+      10.340104003408022
+    ],
+    "p_value": 0.0039507949330262115,
+    "cohens_d": 0.023784713438270055
+  },
+  "decision": {
+    "is_significant": true,
+    "is_substantial": true,
+    "recommendation": "ROLLOUT"
+  }
+}

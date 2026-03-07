@@ -1,0 +1,23 @@
+{
+  "selected_method": "scipy_constrained",
+  "rationale": "Fast, constraint-aware, high convergence rate",
+  "median_price_change_pct": 14.999999999999988,
+  "median_revenue_lift_pct": 6.375,
+  "segment_recommendations": [
+    {
+      "segment": 0,
+      "price_change_pct": 19.999999999999996,
+      "revenue_lift_pct": 7.999999999999997
+    },
+    {
+      "segment": 1,
+      "price_change_pct": 14.999999999999991,
+      "revenue_lift_pct": 6.375
+    },
+    {
+      "segment": 2,
+      "price_change_pct": 10.000000000000005,
+      "revenue_lift_pct": 4.500000000000003
+    }
+  ]
+}

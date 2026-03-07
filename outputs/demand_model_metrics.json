@@ -1,0 +1,7 @@
+{
+  "model": "Random Forest (Baseline)",
+  "test_rmse": 7.61729073466206,
+  "test_mae": 0.7891869985207519,
+  "test_r2": 0.9809885719150697,
+  "test_mape": 0.7796438293703428
+}
